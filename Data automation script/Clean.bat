@@ -1,0 +1,2 @@
+node clean.js
+pause
