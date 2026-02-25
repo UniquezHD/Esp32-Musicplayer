@@ -1,14 +1,17 @@
 # Esp32-Musicplayer
 
 Fully functional musicplayer with many features. 
-it contains
-* esp32
+
+
+things used for this project:
+* Esp32 wroom32
 * ST7565 display
-* buttons
-* on-off switch
+* Buttons
+* On-off switch
 * Max1704x fuel gauge
-* yx5300 serial player
+* Yx5300 serial player
 * 974058 3000mAh battery
+* Custom 3D printed case
 
 https://youtu.be/u6xoun2VSlw
 
