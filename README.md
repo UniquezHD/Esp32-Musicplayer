@@ -1,7 +1,14 @@
 # Esp32-Musicplayer
 
 Fully functional musicplayer with many features. 
-it contains a esp32, ST7565 display, buttons, on-off switch, Max1704x fuel gauge, yx5300 serial player and 974058 3000mAh battery
+it contains
+* esp32
+* ST7565 display
+* buttons
+* on-off switch
+* Max1704x fuel gauge
+* yx5300 serial player
+* 974058 3000mAh battery
 
 https://youtu.be/u6xoun2VSlw
 
